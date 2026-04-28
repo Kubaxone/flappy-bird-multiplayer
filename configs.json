@@ -1,0 +1,8 @@
+{
+    "bird_size": 0.04,
+    "pipe_width": 0.15,
+    "pipe_gap": 0.25,
+    "pipe_speed": 3,
+    "gravity": 0.5,
+    "jump_force": -9
+}
